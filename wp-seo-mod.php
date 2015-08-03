@@ -1,12 +1,11 @@
 <?php
 /**
  * Plugin Name: Yoast SEO Mod
- * Version: 2.3.2
- * Plugin URI: https://www.maketecheasier.com
+ * Version: 1.0.0
+ * Plugin URI: http://damienoh.com
  * Description: Modification for Yoast SEO.
  * Author: Damien Oh
  * Author URI: http://damienoh.com/
- * Text Domain: wordpress-seo
  * License: GPL v3
  */
 
